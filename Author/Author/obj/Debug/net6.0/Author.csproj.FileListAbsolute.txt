@@ -1,0 +1,15 @@
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\bin\Debug\net6.0\Author.exe
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\bin\Debug\net6.0\Author.deps.json
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\bin\Debug\net6.0\Author.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\bin\Debug\net6.0\Author.dll
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\bin\Debug\net6.0\Author.pdb
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.dll
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\refint\Author.dll
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.pdb
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\Author.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Author\Author\obj\Debug\net6.0\ref\Author.dll

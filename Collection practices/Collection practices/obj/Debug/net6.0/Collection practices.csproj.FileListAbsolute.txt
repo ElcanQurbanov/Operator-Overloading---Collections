@@ -1,0 +1,30 @@
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.exe
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.deps.json
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.dll
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.pdb
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.dll
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\refint\Collection practices.dll
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.pdb
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\Collection practices\Collection practices\obj\Debug\net6.0\ref\Collection practices.dll
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.exe
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.deps.json
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.dll
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\bin\Debug\net6.0\Collection practices.pdb
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.dll
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\refint\Collection practices.dll
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.pdb
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\Collection practices.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\Homework 5\Collection practices\Collection practices\obj\Debug\net6.0\ref\Collection practices.dll
